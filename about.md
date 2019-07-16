@@ -8,6 +8,6 @@ permalink: /about/
 
 联系方式：
  
-    QQ：201856030
+QQ：201856030
   
-    email.com：zzzhbr@163.com
+email.com：zzzhbr@163.com
